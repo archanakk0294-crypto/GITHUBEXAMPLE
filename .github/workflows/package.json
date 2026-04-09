@@ -1,0 +1,10 @@
+{
+  "name": "githubexample",
+  "version": "1.0.0",
+  "description": "GitHub Example Project",
+  "scripts": {
+    "test": "echo 'No tests configured'",
+    "lint": "echo 'No linter configured'"
+  },
+  "dependencies": {}
+}
